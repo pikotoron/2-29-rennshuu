@@ -51,3 +51,26 @@ for () {    //for文の中にfor文を書く
 
 ### 練習4
 配列arrayに入力された10個の数値を最後から表示するプログラム、array_reverse.cを作成してください。
+```
+./a.out
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+array[9] = 10
+array[8] = 9
+array[7] = 8
+array[6] = 7
+array[5] = 6
+array[4] = 5
+array[3] = 4
+array[2] = 3
+array[1] = 2
+array[0] = 1
+```
